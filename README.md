@@ -14,10 +14,6 @@ create the database with same name used in .env file in your mysql and run follo
 
     php artisan migrate --seed
 
-Above command will generate all tables and default admin as 
-		**User** tinkeshwar@gmail.com
-		**Password** admin
-
 Finally run
 
     npm install
